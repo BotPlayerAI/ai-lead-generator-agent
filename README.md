@@ -52,14 +52,16 @@ Save Results
 
 ## **Step-by-step process**
 
-1️. The user provides a query requesting leads
-2. The AI agent uses a **search tool** to find businesses
-3️. The agent retrieves company information from search results
-4️. Website content is scraped and cleaned
-5️. The AI analyzes the content to identify potential IT needs
-6️. The agent generates an outreach message
-7️. The results are formatted into structured JSON
-8️. The agent saves the output to a text file
+- The user provides a query requesting leads
+- The AI agent uses a **search tool** to find businesses
+- The agent retrieves company information from search results
+- Website content is scraped and cleaned
+- The AI analyzes the content to identify potential IT needs
+- The agent generates an outreach message
+- The results are formatted into structured JSON
+- The agent saves the output to a text file
+
+---
 
 # **Tech Stack**
 
